@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4bb61994-fe82-4bdb-b6d9-43b39a741f9f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../out/production/Bridgelabz-Training-1Y/Bridgelabz-Training-1Y2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Inheritance/Library.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Inheritance/Library.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Assignment/Level-3/L3P5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_Assignment/Level-3/L3P5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Assignment/string/MostFrequentCharact.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_Assignment/string/MostFrequentCharact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../String_Assignment/string/ToggleCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../String_Assignment/string/ToggleCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Threads/multithreading/BankSimulation.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Threads/multithreading/BankSimulation.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 3
+}]]></component>
+  <component name="ProjectId" id="3Ccwsngck69Gunlpo5f3KrQrTdD" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "workshop",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4bb61994-fe82-4bdb-b6d9-43b39a741f9f" name="Changes" comment="" />
+      <created>1776698374883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1776698374883</updated>
+    </task>
+    <servers />
+  </component>
+</project>

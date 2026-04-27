@@ -8,6 +8,7 @@ public class MostFrequentCharact {
             String a=s.next();
             int count=0;
             char b=0;
+
             for(int i=0;i<a.length();i++){
                 char ch=a.charAt(i);
             for(int j=1;j<a.length();j++){

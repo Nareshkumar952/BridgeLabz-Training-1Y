@@ -1,14 +1,11 @@
 
 class BankAccount implements Runnable {
-
     String name;
     String type;
-
     BankAccount(String n, String t) {
         name = n;
         type = t;
     }
-
     public void run() {
         try {
             for (int i = 1; i <= 3; i++) {
@@ -29,15 +26,12 @@ public class BankSimulation {
         BankAccount p = new BankAccount("Sarthak", "Premium");
         BankAccount r = new BankAccount("Rahul", "Regular");
         BankAccount b = new BankAccount("Aman", "Basic");
-
         Thread t1 = new Thread(p);
         Thread t2 = new Thread(r);
         Thread t3 = new Thread(b);
-
         t1.setPriority(10);
         t2.setPriority(5);
         t3.setPriority(1);
-
         t1.start();
         t2.start();
         t3.start();
